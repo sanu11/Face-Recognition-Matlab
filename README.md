@@ -1,4 +1,4 @@
-# Face_recognition
+# Face_Recognition
 Academic project in Junior year <br>
 Comparing unknown face with the current faces in database n recognising the unknown one <br>
 Algorithm used: PCA (Principal Component Analysis) <br>
